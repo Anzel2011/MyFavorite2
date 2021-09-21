@@ -1,0 +1,60 @@
+
+body {
+  text-align:center;
+  font-family:'Itim', cursive;
+  color:white;
+  font-size:20px;
+}
+
+#img1 {
+  width:10%;
+  height:20%;
+  border-radius:50%;
+    margin-left: ;
+    text-align: center;
+}
+
+hr {
+   height: 6px;
+   background-color: #FAFAFA;
+   width: 200px;
+   margin: 8px auto;
+}
+h1 {
+  text-shadow:2px 3px black;
+}
+
+#p1 {
+  text-shadow:2px 1px black;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+     z-index: 10;
+}
+
+.link{
+    text-decoration: underline;
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+        
+}
+
+.link:hover{
+    background-color: darkgoldenrod;
+    text-decoration: bold;
+   
+    
+}
